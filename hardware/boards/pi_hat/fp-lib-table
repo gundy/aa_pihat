@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Wurth Electronics")(type "KiCad")(uri "/Users/dave/Documents/Electronics/kicad_templates/Wurth Electronics.pretty")(options "")(descr ""))
+)
