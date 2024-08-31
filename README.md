@@ -2,6 +2,8 @@
 
 This repository contains KiCad schematics and board designs for a module to interface with the AA control board.
 
+![3D render of PiHat board](./hardware/boards/pi_hat/revA0/AAPiHat_3D.jpg)
+
 # Goals
 
 The goal is to provide a PiHat-style module that plugs into a Pi-Zero (or a regular rasperry pi), that draws power from the AA "ethernet" interface and converts it to 5V for the Raspberry Pi, and allows the Pi to communicate with the CB using the standard serial RX/TX pins.
